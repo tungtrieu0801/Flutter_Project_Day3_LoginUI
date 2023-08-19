@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![result](https://github.com/tungtrieu0801/Flutter_Project_Day3_LoginUI/assets/126808438/6a10a49a-8ca9-4f84-901f-40118b7eda97)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
